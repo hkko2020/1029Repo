@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+
+public class MainJava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Changed by Team member ");
+		System.out.println("Changed#2 by Team member  ");
+		System.out.println("Changed#3 by Team member 110.9 ");
+	}
+
+}
+=======
 
 public class MainJava {
 
@@ -8,3 +21,4 @@ public class MainJava {
 	}
 
 }
+>>>>>>> refs/remotes/origin/branch-X
